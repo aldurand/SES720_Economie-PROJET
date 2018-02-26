@@ -85,6 +85,10 @@
 ### SWOT
 +++?image=assets/image/swot.png&size=auto 90%
 
+
+---
+### Conclusion
+
 ---
 ### Merci de votre attention
 
