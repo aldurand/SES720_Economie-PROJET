@@ -18,7 +18,7 @@ Mardi 27 Février 2017
 
 +++?image=assets/image/img_energy_supply-4.png&size=auto 90%
 
-+++?image=assets/image/img_energy_supply-5.png&size=auto 90%
++++?image=assets/image/img_energy_supply-5_.png&size=auto 90%
 
 
 +++
