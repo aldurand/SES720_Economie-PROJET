@@ -28,6 +28,7 @@ Mardi 27 Février 2017
     - utilise leurs infrastructures via partenariat
     - concurrents ne veulent pas rater le train de la blockchain  
 <br/>
+
 #### Concurrence par d'Autres acteurs de la blockchain
 - SolarCoin, SunChain, ...
 
