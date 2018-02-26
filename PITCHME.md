@@ -23,7 +23,7 @@ Mardi 27 Février 2017
 
 +++
 || <!-- empty table header -->
-|:--| <!-- table header/body separator with center formatting -->
+|--| <!-- table header/body separator with center formatting -->
 |
 #### Concurrence par les Acteurs traditionnels
 - présence historique, centralisé, forte expertise
