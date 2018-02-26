@@ -24,7 +24,7 @@ Mardi 27 Février 2017
 +++
 || <!-- empty table header -->
 |--| <!-- table header/body separator with center formatting -->
-|
+|  
 #### Concurrence par les Acteurs traditionnels
 - présence historique, centralisé, forte expertise
 - ==> Mais partenaires à la fois :
@@ -33,7 +33,8 @@ Mardi 27 Février 2017
   
   
 #### Concurrence par d'Autres acteurs de la blockchain
-- SolarCoin, SunChain, ...| <!-- cell gets column's alignment -->
+- SolarCoin, SunChain, ...  
+| <!-- cell gets column's alignment -->
 
 
 +++?image=assets/image/solar-map-world2.png&size=auto 80%
