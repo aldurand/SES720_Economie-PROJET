@@ -15,7 +15,7 @@
 - Tout en ayant une architecture souple, perenne qui minimise les coûts de développement, d'évolution et d'intégration à l'existant
 
 ---
-## Use Case
+## Marché & Analyse de la concurrence
 ---
 #### Présenter une vue macroscopique <br> des événements sur un mois donné:
 - Goldstein Scale
@@ -49,13 +49,13 @@
  - Beaucoup de connecteurs pour accéder à la base (Python, Spark, REST, BI)
 
 ---
-## Value Delivery
+### Value Delivery
 ---
 - GDELT: tables avec des liens relationnels
 - Transformation en une seule collection "events" de documents contenant l'event et ses mentions
 
 ---
-## Value Capture
+### Value Capture
 ---
 - GDELT: tables avec des liens relationnels
 - Transformation en une seule collection "events" de documents contenant l'event et ses mentions
