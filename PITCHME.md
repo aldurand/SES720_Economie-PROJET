@@ -48,8 +48,9 @@
 ---
 ### Value Delivery
 ---
-- GDELT: tables avec des liens relationnels
-- Transformation en une seule collection "events" de documents contenant l'event et ses mentions
+---?image=assets/image/distribution_channel.png&size=auto 75%
+---?image=assets/image/retraite_video_power.png&size=auto 75%
+
 
 ---
 ### Value Capture
