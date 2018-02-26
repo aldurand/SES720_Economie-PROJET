@@ -63,7 +63,9 @@ Mardi 27 Février 2017
 +++
  - Une séparation d'un marché très élastique à la demande et d'un marché de l'énergie très inélastique => Stabilité des prix de l'électricité dans chaque pays.
  
- - La blockchain des Sparkz est privée => Les transactions restent privées + possibilité de remonter les informations de consommations au fil de l'eau.
+ - La blockchain des Sparkz est privée => Les transactions restent privées + possibilité de remonter les informations de consommation  au fil de l'eau.
+ 
+ -Le système est sans tiers de confiance => Ceci permet d'avoir un très bon prix de vente pour le prosumer et un très bon prix d'avhat pour le consommateur 
  
 +++
 ### Value Communication
