@@ -1,10 +1,13 @@
 ---
 ### Power Ledger  
-#### la blockchain pour révolutionner la distribution d'énergie  
 
-##### Xavier Charef, Mehdi Regina, Alexandre Durand  
+#### la blockchain pour révolutionner
+#### la distribution d'énergie  
 
-##### Presentation du 27/02/2018
+> Xavier Charef
+> Mehdi Regina
+> Alexandre Durand  
+
 
 
 
