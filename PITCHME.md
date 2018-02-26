@@ -43,9 +43,7 @@
 ### Value Communication
 ---?image=assets/image/canaux_communication.png&size=auto 75%
 ---
-- Diffusion de la vision => nouveaux investisseurs & partenaires
  
-
 ---
 ### Value Delivery
 ---
@@ -56,8 +54,9 @@
 ---
 ### Value Capture
 ---
-- GDELT: tables avec des liens relationnels
-- Transformation en une seule collection "events" de documents contenant l'event et ses mentions
+- Coût fixe élevé : Main d'oeuvre rare & qualifié, Parc de serveurs
+- Revenus : Fees & Licensing 
+- Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
 ---
 
