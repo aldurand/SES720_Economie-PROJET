@@ -54,7 +54,7 @@
 ---
 ### Value Capture
 ---
-- Coût fixe élevé : Main d'oeuvre rare & qualifié, Parc de serveurs
+- Coût fixe élevé : Main d'oeuvre rare, Parc de serveurs
 - Revenus : Fees & Licensing 
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
