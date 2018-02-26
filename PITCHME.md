@@ -1,4 +1,4 @@
-## Projet NoSQL
+## Projet SES 720: Power Ledger
 
 ### Presentation du 27/02/2018
 #### Xavier Charef, Mehdi Regina, Alexandre Durand
