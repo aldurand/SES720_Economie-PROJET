@@ -1,6 +1,6 @@
 ---
 ### Power Ledger
-#### Xavier Charef, Mehdi Regina, Alexandre Durand
+##### Xavier Charef, Mehdi Regina, Alexandre Durand
 ##### Presentation du 27/02/2018
 
 
