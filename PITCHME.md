@@ -19,16 +19,11 @@
 ## Marché & Analyse de la concurrence
 
 
-+++
-Situation actuelle :  
-![Situation_actu](assets/image/img_energy_supply_2.png)
++++?image=assets/image/img_energy_supply_02.png&size=auto 90%
 
++++?image=assets/image/img_energy_supply_04.png&size=auto 90%
 
-+++?image=assets/image/img_energy_supply_3.png&size=auto 90%
-
-+++?image=assets/image/img_energy_supply_4.png&size=auto 90%
-
-+++?image=assets/image/img_energy_supply_5_.png&size=auto 90%
++++?image=assets/image/img_energy_supply_05.png&size=auto 90%
 
 ---
 
