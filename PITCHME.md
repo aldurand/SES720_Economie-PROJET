@@ -9,6 +9,7 @@
 
 
 ---
+
 ## Marché & Analyse de la concurrence
 
 
@@ -20,6 +21,21 @@
 
 ---
 
+### Concurrence
+
+#### Acteurs traditionnels
+- présence historique, centralisé, forte expertise
+- Power Ledger vient prendre sa part sur leur gâteau
+
+> Mais partenaires à la fois !
+> - utilise leurs infrastructures via partenariat
+> - concurrents ne veulent pas rater le train de la blockchain
+
+#### Autres acteurs du numérique sur la blockchain
+- SolarCoin
+- SunChain
+
+---
 
 ## Business Model
 
