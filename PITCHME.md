@@ -1,7 +1,7 @@
 ## Projet NoSQL
 
-### Presentation du 23/01/2017
-#### Nazha Bouchia, Alexandre Durand, Robin Masliah, François Lecerf
+### Presentation du 27/02/2018
+#### Xavier Charef, Mehdi Regina, Alexandre Durand
 
 ---
 ## Contexte
