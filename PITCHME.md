@@ -30,11 +30,11 @@
 
 ---
 ### Value Proposition
----?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 70%
+---?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 75%
 
 ---
 ### Value Creation
----?image=assets/image/power_ledger_plateform_schema.png&size=auto 70%
+---?image=assets/image/power_ledger_plateform_schema.png&size=auto 75%
 
 ---
  - Les Sparkz sont convertibles en la monnaie locale de l’utilisateur
