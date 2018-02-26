@@ -1,7 +1,6 @@
----?image=assets/image/power_logo.png&size=auto 10%
-
 ### Presentation du 27/02/2018
 #### Xavier Charef, Mehdi Regina, Alexandre Durand
+---?image=assets/image/power_logo.png&size=auto 10%
 
 ---
 ## Contexte
