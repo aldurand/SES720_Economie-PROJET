@@ -52,10 +52,6 @@ Mardi 27 Février 2017
 +++?image=assets/image/power_ledger_deregulated_market.png&size=auto 75%
 
 +++
- - Les POWR sont échangés en Sparkz au cours de Smart Bond. Le taux de change sera variable selon l'Application Host.
- - Les POWR sont des tokens d'accès aux services de la plateforme de transaction.
- - Les Sparkz sont convertibles en la monnaie locale de l’utilisateur et reflète le prix local de l'électricité.
- - Les Sparkz servent aux transactions énergétiques P2P.
  
 +++
 ### Value Creation
@@ -66,11 +62,11 @@ Mardi 27 Février 2017
  - La blockchain des Sparkz est privée => Les transactions restent privées + possibilité de remonter les informations de consommation  au fil de l'eau.
  
 +++
- - Le système est sans tiers de confiance => Ceci permet d'avoir un très bon prix de vente pour le prosumer et un très bon prix d'achat pour le consommateur 
+ - Le système est sans tiers de confiance => Ceci permet d'avoir un très bon prix de vente pour le prosumer et un très bon prix d'achat pour le consommateur.
  
- - L'écosystème de Power Ledger autorise la création d'application développée par les Application Host (i.e, fournisseur d'énergie)
+ - L'écosystème de Power Ledger autorise la création d'application développée par les Application Host.
  
- - La correspondance entre prosumers et consommateurs se fait de façon à  sélectionner en priorité le prosumer le plus proche du consommateur.
+ - La correspondance entre prosumers et consommateurs se fait de façon à sélectionner en priorité le prosumer le plus proche du consommateur.
  
 +++
 ### Value Communication
