@@ -22,7 +22,7 @@ Mardi 27 Février 2017
 
 
 +++
-
+<p style="text-align:left";>
 #### Concurrence par les Acteurs traditionnels
 - présence historique, centralisé, forte expertise
 - ==> Mais partenaires à la fois :
@@ -33,7 +33,7 @@ Mardi 27 Février 2017
 #### Concurrence par d'Autres acteurs de la blockchain
 - SolarCoin
 - SunChain
-
+</p>
 
 +++?image=assets/image/solar-map-world2.png&size=auto 80%
 
