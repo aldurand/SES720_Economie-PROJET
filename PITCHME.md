@@ -50,11 +50,9 @@
 ---
 ### Value Communication
 ---?image=assets/image/canaux_communication.png&size=auto 75%
----
- 
+
 ---
 ### Value Delivery
----
 ---?image=assets/image/distribution_channel.png&size=auto 75%
 ---?image=assets/image/retraite_video_power.png&size=auto 75%
 
