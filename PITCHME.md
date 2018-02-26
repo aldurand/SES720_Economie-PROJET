@@ -62,6 +62,7 @@
 
 ---
 ### SWOT
++++?image=assets/image/swot.png&size=auto 75%
 
 ---
 ### Merci de votre attention
