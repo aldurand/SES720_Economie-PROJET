@@ -5,7 +5,7 @@
 #### la distribution d'énergie  
 <br/>
 <br/>
-Xavier Charef, Mehdi Regina, Alexandre Durand
+Xavier Charef, Mehdi Regina, Alexandre Durand  
 Mardi 27 Février 2017
 
 ---
