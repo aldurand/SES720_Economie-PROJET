@@ -56,7 +56,7 @@
  
 +++
 ### Value Communication
-+++?image=assets/image/canaux_communication.png&size=auto 75%
++++?image=assets/image/canaux_communication.png&size=auto 85%
 +++?image=assets/image/vision_importance.png&size=auto 75%
 
 +++
@@ -74,7 +74,7 @@
 
 ---
 ### SWOT
-+++?image=assets/image/swot.png&size=auto 75%
++++?image=assets/image/swot.png&size=auto 90%
 
 ---
 ### Merci de votre attention
