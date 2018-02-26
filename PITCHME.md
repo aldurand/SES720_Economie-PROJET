@@ -33,9 +33,7 @@ Xavier Charef, Mehdi Regina, Alexandre Durand
 - SunChain
 
 
-+++
-
-### Où sont situés les marchés cibles ?
++++?image=assets/image/solar-map-world.png
 
 
 ---
