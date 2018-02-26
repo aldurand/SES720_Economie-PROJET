@@ -49,6 +49,7 @@ Mardi 27 Février 2017
 +++
 ### Value Proposition
 +++?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 75%
++++?image=assets/image/power_ledger_deregulated_market.png&size=auto 75%
 
 +++
  - Les POWR sont échangés en Sparkz au cours de Smart Bond. Le taux de change sera variable selon l'Application Host.
@@ -58,7 +59,6 @@ Mardi 27 Février 2017
  
 +++
 ### Value Creation
-+++?image=assets/image/power_ledger_plateform_schema.png&size=auto 75%
 
 +++
  - Une séparation d'un marché très élastique à la demande et d'un marché de l'énergie très inélastique => Stabilité des prix de l'électricité dans chaque pays.
