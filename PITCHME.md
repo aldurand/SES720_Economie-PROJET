@@ -33,9 +33,11 @@ Xavier Charef, Mehdi Regina, Alexandre Durand
 - SunChain
 
 
-+++?image=assets/image/solar-map-world2.png&size=auto 85% |
-?image=assets/image/solar-map-world3.png&size=auto 85% |
-?image=assets/image/solar-map-world4.png&size=auto 85%
++++?image=assets/image/solar-map-world2.png&size=auto 85%
+
++++?image=assets/image/solar-map-world3.png&size=auto 85%
+
++++?image=assets/image/solar-map-world4.png&size=auto 85%
 
 
 ---
