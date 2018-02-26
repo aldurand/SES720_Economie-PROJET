@@ -1,6 +1,8 @@
 ---
-### Power Ledger
-##### Xavier Charef, Mehdi Regina, Alexandre Durand
+### Power Ledger  
+
+##### Xavier Charef - Mehdi Regina - Alexandre Durand  
+
 ##### Presentation du 27/02/2018
 
 
@@ -18,7 +20,8 @@
 
 +++?image=assets/image/img_energy_supply_05.png&size=auto 90%
 
----
+
++++
 
 #### Concurrence par les Acteurs traditionnels
 - présence historique, centralisé, forte expertise
@@ -30,6 +33,12 @@
 #### Concurrence par d'Autres acteurs de la blockchain
 - SolarCoin
 - SunChain
+
+
++++
+
+### Où sont situés les marchés cibles ?
+
 
 ---
 
