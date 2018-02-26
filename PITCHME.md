@@ -94,8 +94,10 @@ Mardi 27 Février 2017
 +++
 - Coût fixe élevé : Main d'oeuvre rare, Parc de serveurs
 <br/>
+
 - Revenus : Fees & Licensing
 <br/>
+
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
 ---
