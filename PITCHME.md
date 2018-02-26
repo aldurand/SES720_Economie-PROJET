@@ -4,9 +4,7 @@
 #### la blockchain pour révolutionner
 #### la distribution d'énergie  
 
-> Xavier Charef  
-> Mehdi Regina  
-> Alexandre Durand
+Xavier Charef, Mehdi Regina, Alexandre Durand
 
 ---
 
