@@ -31,14 +31,7 @@ Situation actuelle :
 +++?image=assets/image/img_energy_supply_5_.png&size=auto 90%
 
 ---
-#### Présenter une vue macroscopique <br> des événements sur un mois donné:
-- Goldstein Scale
-- Tonalité
-- CAMEO Root Code
-- Nombre de sources
-- Géolocalisation
 
----
 
 ## Business Model
 
@@ -61,18 +54,18 @@ Situation actuelle :
  
  - La blockchain des Sparkz est privée => Les transactions restent privées + possibilité de remonter les informations de consommations au fil de l'eau.
  
----
++++
 ### Value Communication
 +++?image=assets/image/canaux_communication.png&size=auto 75%
 +++?image=assets/image/vision_importance.png&size=auto 75%
 
----
++++
 ### Value Delivery
 +++?image=assets/image/distribution_channel_2.png&size=auto 75%
 +++?image=assets/image/retraite_video_power.png&size=auto 75%
 
 
----
++++
 ### Value Capture
 +++
 - Coût fixe élevé : Main d'oeuvre rare, Parc de serveurs
