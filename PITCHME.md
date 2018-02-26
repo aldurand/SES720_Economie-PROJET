@@ -41,8 +41,9 @@
  - Les POWR échangés en Sparkz au cours de Smart Bond.
 ---
 ### Value Communication
- - "Democratize and green the enegy space" / "Co-create the future of energy"
 ---?image=assets/image/canaux_communication.png&size=auto 75%
+---
+- Diffusion de la vision => nouveaux investisseurs & partenaires
  
 
 ---
