@@ -87,12 +87,8 @@ Mardi 27 Février 2017
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
 ---
-### SWOT
+### Analyse SWOT / Conclusion
 +++?image=assets/image/swot.png&size=auto 90%
-
-
----
-### Conclusion
 
 ---
 ### Merci de votre attention
