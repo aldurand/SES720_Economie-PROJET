@@ -5,10 +5,10 @@
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
 
-#theme : white  #night
+theme : white  #night
 #theme-override : assets/css/PITCHME.css
 highlight : atom-one-dark
 logo : assets/image/power_logo.png
 transition : none
-#published : true
+published : true
 footnote : "MS BigData - SES720-Economie - TelecomParisTech - 2017/2018"
