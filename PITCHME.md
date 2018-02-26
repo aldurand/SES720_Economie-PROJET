@@ -7,13 +7,6 @@
 ---
 ## Contexte
 
----?image=assets/image/contexte.png&size=auto 90%
-
----
-- La demande métier est souvent par nature floue et evolutive
-
-- Le metier veut brancher sa dataviz, croiser les données avec d'autres applications existantes, offrir une interface web
-- Tout en ayant une architecture souple, perenne qui minimise les coûts de développement, d'évolution et d'intégration à l'existant
 
 ---
 ## Marché & Analyse de la concurrence
