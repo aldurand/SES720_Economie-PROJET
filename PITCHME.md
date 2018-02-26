@@ -21,7 +21,7 @@
 
 +++
 Situation actuelle :  
-![Image of Yaktocat](?image=assets/image/img_energy_supply_2.png&size=auto 90%)
+!image=assets/image/img_energy_supply_2.png&size=auto 90%
 
 
 +++?image=assets/image/img_energy_supply_3.png&size=auto 90%
