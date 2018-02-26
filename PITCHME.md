@@ -98,7 +98,7 @@ Mardi 27 Février 2017
 - Revenus : Fees & Licensing
 <br/>
 
-- Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
+- Levé de fonds : 34M AUD <==> 40% token supply (Aout 2017)
 
 ---
 ### Analyse SWOT / Conclusion
