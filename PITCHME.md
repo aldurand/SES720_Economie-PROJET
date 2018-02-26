@@ -33,8 +33,7 @@ Mardi 27 Février 2017
   
   
 #### Concurrence par d'Autres acteurs de la blockchain
-- SolarCoin, SunChain, ...
-| <!-- cell gets column's alignment -->
+- SolarCoin, SunChain, ...| <!-- cell gets column's alignment -->
 
 
 +++?image=assets/image/solar-map-world2.png&size=auto 80%
