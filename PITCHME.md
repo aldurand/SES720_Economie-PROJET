@@ -1,5 +1,5 @@
 ---
-### Power Ledger  
+# Power Ledger  
 
 #### la blockchain pour révolutionner
 #### la distribution d'énergie  
