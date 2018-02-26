@@ -5,10 +5,8 @@
 #### la distribution d'énergie  
 
 > Xavier Charef  
-
 > Mehdi Regina  
-
-> Alexandre Durand  
+> Alexandre Durand
 
 ---
 
