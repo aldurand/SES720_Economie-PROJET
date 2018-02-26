@@ -30,14 +30,11 @@
 
 ---
 ### Value Proposition
-- **MongoDB** est le meilleur compromis:
-  - fonctionnalité et accès aux données
-  - scalabilité et performance
-  - souplesse d'évolution de l'architecture
-  - tolérance aux pannes
+---?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 57%
 
 ---
 ### Value Creation
+---?image=assets/image/power_ledger_plateform_schema.png&size=auto 57%
 **Le format *Document* nous permet d'être flexible et de rajouter des champs à la demande:**
   - En aval, en fonction de l'évolution des demandes métier
   - En amont, en fonction des évolutions de la base GDELT (format 1.0 -> 2.0)
