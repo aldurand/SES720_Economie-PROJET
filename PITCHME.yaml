@@ -7,7 +7,7 @@
 theme : night
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-dark
-logo : assets/image/logo.png
+logo : assets/image/power_logo.png
 transition : none
 published : true
-footnote : "MS BigData - INF728-NoSQL - TelecomParisTech - 2017/2018"
+footnote : "MS BigData - SES720-Economie - TelecomParisTech - 2017/2018"
