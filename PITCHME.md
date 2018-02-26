@@ -43,12 +43,13 @@ Mardi 27 Février 2017
 
 
 ---
-
 ## Business Model
 
 +++
 ### Value Proposition
+
 +++?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 75%
+
 +++?image=assets/image/power_ledger_deregulated_market.png&size=auto 75%
 
 +++?image=assets/image/tableau_Sparkz_POWR.png&size=auto 60%
@@ -57,40 +58,52 @@ Mardi 27 Février 2017
 ### Value Creation
 
 +++
- - Une séparation d'un marché très élastique à la demande et d'un marché de l'énergie très inélastique => Stabilité des prix de l'électricité dans chaque pays.
+ - Une séparation d'un marché très élastique à la demande et d'un marché de l'énergie très inélastique
+   - ==> Stabilité des prix de l'électricité dans chaque pays
  
- - La blockchain des Sparkz est privée => Les transactions restent privées + possibilité de remonter les informations de consommation  au fil de l'eau.
+ - La blockchain des Sparkz est privée
+   - ==> Les transactions restent privées
+   - ==> Possibilité de remonter les informations de consommation  au fil de l'eau
  
 +++
- - Le système est sans tiers de confiance => Ceci permet d'avoir un très bon prix de vente pour le prosumer et un très bon prix d'achat pour le consommateur.
+ - Le système est sans tiers de confiance
+   - ==> Bon prix de vente pour le prosumer et bon prix d'achat pour le consommateur
  
- - L'écosystème de Power Ledger autorise la création d'application développée par les Application Host.
+ - L'écosystème de Power Ledger autorise la création d'application développée par les Application Host
  
- - La correspondance entre prosumers et consommateurs se fait de façon à sélectionner en priorité le prosumer le plus proche du consommateur.
+ - La correspondance entre prosumers et consommateurs se fait de façon à sélectionner en priorité le prosumer le plus proche du consommateur
  
 +++
 ### Value Communication
+
 +++?image=assets/image/canaux_communication.png&size=auto 85%
+
 +++?image=assets/image/vision_importance.png&size=auto 75%
 
 +++
 ### Value Delivery
+
 +++?image=assets/image/distribution_channel_2.png&size=auto 75%
+
 +++?image=assets/image/retraite_video_power.png&size=auto 75%
 
 
 +++
 ### Value Capture
+
 +++
 - Coût fixe élevé : Main d'oeuvre rare, Parc de serveurs
-- Revenus : Fees & Licensing 
+<br/>
+- Revenus : Fees & Licensing
+<br/>
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
 ---
 ### Analyse SWOT / Conclusion
+
 +++?image=assets/image/swot.png&size=auto 90%
 
 ---
 ### Merci de votre attention
-
+<br/>
 ### Des questions?
