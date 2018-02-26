@@ -26,10 +26,10 @@
 
 ---
 
-## Choix du système de stockage
+## Business Model
 
 ---
-### Pourquoi MongoDB ? (1/3)
+### Value Proposition
 - **MongoDB** est le meilleur compromis:
   - fonctionnalité et accès aux données
   - scalabilité et performance
@@ -37,24 +37,29 @@
   - tolérance aux pannes
 
 ---
-### Pourquoi MongoDB ? (2/3)
+### Value Creation
 **Le format *Document* nous permet d'être flexible et de rajouter des champs à la demande:**
   - En aval, en fonction de l'évolution des demandes métier
   - En amont, en fonction des évolutions de la base GDELT (format 1.0 -> 2.0)
   - Evolution de l'architecture en plusieurs temps (ajout de champs sans modification immédiate des applications frontales à notre base)
 
 ---
-### Pourquoi MongoDB ? (3/3)
+### Value Communication
  - Programmation simple généralement adaptée aux développeurs et en particulier à notre équipe Data
  - Beaucoup de connecteurs pour accéder à la base (Python, Spark, REST, BI)
 
 ---
-## Modélisation des données
+## Value Delivery
 ---
 - GDELT: tables avec des liens relationnels
 - Transformation en une seule collection "events" de documents contenant l'event et ses mentions
 
 ---
+## Value Capture
+---
+- GDELT: tables avec des liens relationnels
+- Transformation en une seule collection "events" de documents contenant l'event et ses mentions
+
 ##### (scrolldown to see the entire sample)
 ```json
 {
