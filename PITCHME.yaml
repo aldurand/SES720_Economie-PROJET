@@ -4,7 +4,8 @@
 # For details, visit Wiki:
 # https://github.com/gitpitch/gitpitch/wiki/Slideshow-Settings
 #
-theme : night
+
+theme : white  #night
 theme-override : assets/css/PITCHME.css
 highlight : atom-one-dark
 logo : assets/image/power_logo.png
