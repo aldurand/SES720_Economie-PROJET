@@ -73,7 +73,9 @@ Situation actuelle :
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
 
 ---
+### SWOT
 
+---
 ### Merci de votre attention
 
 ### Des questions?
