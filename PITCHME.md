@@ -41,8 +41,9 @@
  - Les POWR échangés en Sparkz au cours de Smart Bond.
 ---
 ### Value Communication
- - Programmation simple généralement adaptée aux développeurs et en particulier à notre équipe Data
- - Beaucoup de connecteurs pour accéder à la base (Python, Spark, REST, BI)
+ - "Democratize and green the enegy space" / "Co-create the future of energy"
+ ---?image=assets/image/canaux_communication.png&size=auto 75%
+ 
 
 ---
 ### Value Delivery
