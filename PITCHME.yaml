@@ -10,5 +10,5 @@ theme : white  #night
 highlight : atom-one-dark
 logo : assets/image/power_logo.png
 transition : none
-published : true
+#published : true
 footnote : "MS BigData - SES720-Economie - TelecomParisTech - 2017/2018"
