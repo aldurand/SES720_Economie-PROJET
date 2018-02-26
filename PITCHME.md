@@ -30,16 +30,15 @@
 
 ---
 ### Value Proposition
----?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 57%
+---?image=assets/image/powerledger_reagulated_deregulated_market.png&size=auto 70%
 
 ---
 ### Value Creation
----?image=assets/image/power_ledger_plateform_schema.png&size=auto 57%
-**Le format *Document* nous permet d'être flexible et de rajouter des champs à la demande:**
-  - En aval, en fonction de l'évolution des demandes métier
-  - En amont, en fonction des évolutions de la base GDELT (format 1.0 -> 2.0)
-  - Evolution de l'architecture en plusieurs temps (ajout de champs sans modification immédiate des applications frontales à notre base)
+---?image=assets/image/power_ledger_plateform_schema.png&size=auto 70%
 
+---
+ - Les Sparkz sont convertibles en la monnaie locale de l’utilisateur
+ - Les POWR échangés en Sparkz au cours de Smart Bond.
 ---
 ### Value Communication
  - Programmation simple généralement adaptée aux développeurs et en particulier à notre équipe Data
