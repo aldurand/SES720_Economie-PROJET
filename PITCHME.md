@@ -35,11 +35,11 @@ Mardi 27 Février 2017
 - SunChain
 
 
-+++?image=assets/image/solar-map-world2.png&size=auto 85%
++++?image=assets/image/solar-map-world2.png&size=auto 80%
 
-+++?image=assets/image/solar-map-world3.png&size=auto 85%
++++?image=assets/image/solar-map-world3.png&size=auto 80%
 
-+++?image=assets/image/solar-map-world4.png&size=auto 85%
++++?image=assets/image/solar-map-world4.png&size=auto 80%
 
 
 ---
