@@ -17,6 +17,13 @@
 
 ---
 ## Marché & Analyse de la concurrence
+
++++?image=assets/image/img_energy_supply_1.png
++++?image=assets/image/img_energy_supply_2.png
++++?image=assets/image/img_energy_supply_3.png
++++?image=assets/image/img_energy_supply_4.png
++++?image=assets/image/img_energy_supply_5.png
+
 ---
 #### Présenter une vue macroscopique <br> des événements sur un mois donné:
 - Goldstein Scale
