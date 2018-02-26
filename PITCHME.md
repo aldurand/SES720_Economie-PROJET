@@ -63,18 +63,18 @@ Situation actuelle :
  
 ---
 ### Value Communication
----?image=assets/image/canaux_communication.png&size=auto 75%
++++?image=assets/image/canaux_communication.png&size=auto 75%
 +++?image=assets/image/vision_importance.png&size=auto 75%
 
 ---
 ### Value Delivery
----?image=assets/image/distribution_channel_2.png&size=auto 75%
----?image=assets/image/retraite_video_power.png&size=auto 75%
++++?image=assets/image/distribution_channel_2.png&size=auto 75%
++++?image=assets/image/retraite_video_power.png&size=auto 75%
 
 
 ---
 ### Value Capture
----
++++
 - Coût fixe élevé : Main d'oeuvre rare, Parc de serveurs
 - Revenus : Fees & Licensing 
 - Levé de fonds : 34M AUD <=> 40% token supply (Aout 2017)
