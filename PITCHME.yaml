@@ -6,7 +6,7 @@
 #
 
 theme : white  #night
-theme-override : assets/css/PITCHME.css
+#theme-override : assets/css/PITCHME.css
 highlight : atom-one-dark
 logo : assets/image/power_logo.png
 transition : none
