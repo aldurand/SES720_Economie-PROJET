@@ -52,7 +52,7 @@ Mardi 27 Février 2017
 
 +++?image=assets/image/power_ledger_deregulated_market.png&size=auto 75%
 
-+++?image=assets/image/tableau_Sparkz_POWR.png&size=auto 75%
++++?image=assets/image/tableau_Sparkz_POWR.png&size=auto 50%
  
 +++
 ### Value Creation
