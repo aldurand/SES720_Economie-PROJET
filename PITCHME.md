@@ -14,11 +14,11 @@ Mardi 27 Février 2017
 ## Marché & Analyse de la concurrence
 
 
-+++?image=assets/image/img_energy_supply_02.png&size=auto 90%
++++?image=assets/image/img_energy_supply-2.png&size=auto 90%
 
-+++?image=assets/image/img_energy_supply_04.png&size=auto 90%
++++?image=assets/image/img_energy_supply-4.png&size=auto 90%
 
-+++?image=assets/image/img_energy_supply_05.png&size=auto 90%
++++?image=assets/image/img_energy_supply-5.png&size=auto 90%
 
 
 +++
