@@ -45,7 +45,7 @@ Situation actuelle :
  - Les Sparkz sont convertibles en la monnaie locale de l’utilisateur et reflète le prix local de l'électricité.
  - Les Sparkz servent aux transactions énergétiques P2P
  
----
++++
 ### Value Creation
 +++?image=assets/image/power_ledger_plateform_schema.png&size=auto 75%
 
