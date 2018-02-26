@@ -65,6 +65,7 @@ Situation actuelle :
 ---
 ### Value Communication
 ---?image=assets/image/canaux_communication.png&size=auto 75%
++++?image=assets/image/vision_importance.png&size=auto 75%
 
 ---
 ### Value Delivery
