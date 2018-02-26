@@ -22,7 +22,7 @@
 +++?image=assets/image/img_energy_supply_2.png&size=auto 90%
 +++?image=assets/image/img_energy_supply_3.png&size=auto 90%
 +++?image=assets/image/img_energy_supply_4.png&size=auto 90%
-+++?image=assets/image/img_energy_supply_5.png&size=auto 90%
++++?image=assets/image/img_energy_supply_5_.png&size=auto 90%
 
 ---
 #### Présenter une vue macroscopique <br> des événements sur un mois donné:
