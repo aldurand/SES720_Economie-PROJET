@@ -1,6 +1,6 @@
 # SES720 - Economie de l'Internet
 
-# Etude de Cas : Power Ledger, blockchain pour révolutionner la distribution d'énergie
+# Etude de Cas : Power Ledger, la blockchain pour révolutionner la distribution d'énergie
 
 
 ## Pitch
